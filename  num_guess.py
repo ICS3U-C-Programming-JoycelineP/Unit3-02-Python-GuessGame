@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Created by: Your Name
+# Created by: Joyceline
 # Created on: Oct 13 2026
 # This program asks the user to guess a number and checks if it is correct or not.
 
